@@ -280,6 +280,9 @@ compress_html:
   ignore:
     envs: development
 
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Defaults
 defaults:
@@ -294,3 +297,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+search: true
