@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sam Yang"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : # "I am an **amazing** person."
   location         : "Taiwan"
   email            :
   links:
